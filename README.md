@@ -3,6 +3,8 @@ This is an editor that let you edit files in ASCII mode and HEX mode. Some key b
 
 ![vex screenshot](img/screen.png)
 
+To change from HEX to ASCII mode, just use the `TAB` key. 
+
 ## Usage
 Clone de repo:
 
